@@ -1,0 +1,15 @@
+{
+  "name": "PEWONSKI Portfolio",
+  "short_name": "PEWONSKI",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#0a0a0f",
+  "icons": [
+    {
+      "src": "images/gallery/Gallery_1_main.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
